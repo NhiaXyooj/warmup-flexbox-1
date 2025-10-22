@@ -1,0 +1,36 @@
+.top-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.site-header{
+    max-width: 600px;
+    background-color: aquamarine;
+    margin: auto;
+}
+.global-nav{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+.nav-link{
+    padding: 20px;
+}
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+    background-color: coral;
+    display: flex;   
+}
+.main-content{
+    padding: 20px;
+    background-color: azure;
+    margin-left: 20px;
+}
+.second-nav{
+    display: flex;
+    padding: 20px;
+    background-color: chartreuse;
+    align-items: center;
+}
